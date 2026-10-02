@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "43b977fc6093cf4dec85a29d",
+  "owner": "mgcskb",
+  "repo": "page-585eaf5255c9b1709d4be03c",
+  "title": "Flysocks",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "585eaf5255c9b1709d4be03c",
+      "a": "Flysocks",
+      "b": "",
+      "entity": "Flysocks",
+      "brand": "Flysocks",
+      "separator": "",
+      "path": "index.html",
+      "hash": "de7aecabda5918eeb4df228efca52c3e7c5d7bb57047973270d630b0e667cebd",
+      "content": {
+        "keyword1": "Flysocks",
+        "keyword2": "",
+        "primary_entity": "Flysocks",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Flysocks 提供官方机场订阅与 VPN 加速服务，覆盖高速梯子节点、流媒体解锁、游戏专线及多端客户端下载，助力稳定跨境网络体验。",
+          "AI_DESCRIPTION": "Flysocks 提供官方机场订阅与 VPN 加速服务，覆盖高速梯子节点、流媒体解锁、游戏专线及多端客户端下载，助力稳定跨境网络体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;background:#f3f4f6;color:#1f2937;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-size:17px;line-height:1.75}header{background:#fff;border-bottom:1px solid #e5e7eb}header .bar{max-width:960px;margin:0 auto;padding:0.85rem 1.25rem;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:0.75rem}header strong{color:#5b21b6;font-size:1.15rem}header nav{display:flex;flex-wrap:wrap;gap:0.65rem 1rem;font-size:0.95rem}a{color:#6d28d9;text-decoration:none}a:hover{text-decoration:underline}main{display:block}.hero{padding:5.2rem 1.25rem 4.2rem;text-align:center;background:#fafafa}h1{font-size:clamp(1.85rem,5.2vw,2.65rem);color:#5b21b6;margin:0 auto 1.35rem;font-weight:700;line-height:1.28;max-width:16em}.lead{font-size:1.08rem;color:#4b5563;max-width:38em;margin:0 auto}.wrap{max-width:960px;margin:0 auto;padding:0 1.25rem 2rem}h2{font-size:1.42rem;color:#4c1d95;margin:2.4rem 0 1rem;padding-bottom:0.35rem;border-bottom:2px solid #ddd6fe}h3{font-size:1.12rem;color:#5b21b6;margin:1.35rem 0 0.45rem}p,li{color:#374151}.plans{display:flex;flex-wrap:wrap;gap:1rem}.plan{flex:1 1 250px;background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:1.2rem 1.1rem}.plan.featured{border:2px solid #7c3aed;background:#f5f3ff}.price{font-size:1.45rem;color:#6d28d9;font-weight:700;margin:0.2rem 0}.annual{font-size:0.9rem;color:#6b7280;margin:0 0 0.7rem}.plan ul{margin:0;padding-left:1.15rem}.steps{background:#fff;border-radius:12px;padding:1.35rem 1.25rem 1.5rem;border-left:5px solid #7c3aed;margin:0.5rem 0 1.25rem}.steps ol{margin:0.4rem 0 0;padding-left:1.2rem}.ad{background:#ede9fe;border:1px dashed #7c3aed;padding:1rem 1.1rem;text-align:center;margin:1.6rem 0;color:#5b21b6;border-radius:10px}details{background:#fff;border:1px solid #e5e7eb;border-radius:8px;margin:0.55rem 0;padding:0.75rem 1rem}summary{font-weight:600;color:#5b21b6}details p{margin:0.55rem 0 0}footer{background:#111827;color:#e5e7eb;padding:2rem 1.25rem;margin-top:2.5rem;font-size:0.95rem}footer .wrap{padding:0}footer a{color:#c4b5fd}footer h2{color:#ddd6fe;border-bottom-color:#4c1d95;font-size:1.1rem;margin-top:0}.map{display:flex;flex-wrap:wrap;gap:0.4rem 0.9rem;margin:0.4rem 0 1rem}.friends{display:flex;flex-wrap:wrap;gap:0.35rem 0.85rem}@media (max-width:640px){.hero{padding:3.4rem 1rem 2.6rem}header .bar{padding:0.7rem 1rem}.plans{flex-direction:column}}</style><header><div class=\"bar\"><strong>Flysocks</strong><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#setup\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main><section class=\"hero\" id=\"intro\"><h1>Flysocks 高速机场 VPN 加速官网</h1><p class=\"lead\">Flysocks 官方网站提供机场订阅与多端加速客户端指引，面向浏览、流媒体与游戏场景，帮助你用清晰步骤完成订阅导入、节点选择与稳定连接。</p></section><div class=\"wrap\"><section><h2>品牌简介</h2><p>Flysocks 是面向个人与团队的网络加速服务，核心是机场订阅与兼容主流客户端的连接方式。用户完成套餐开通后即可获取订阅地址，在 Windows、macOS、iOS、Android 及常见路由环境中导入，按延迟与用途选择普通线路或 IPLC 专线。</p><p>服务侧重点包括可用流量档位、同时在线设备数、基础或全节点流媒体解锁，以及游戏向线路优化。页面内容围绕官网下载说明、配置流程与套餐对照展开，避免把安装包散落在不明来源，降低误下风险。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>下列档位为 Flysocks 固定方案，可按月使用，年付可降低平均月费。请以实际开通页展示为准，并按自己的设备数量与流量习惯选择。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>需要观看海外影视、直播或音乐时，优先使用带解锁说明的节点。旗舰版与团队版强调全节点原生解锁，基础版覆盖常见基础片源。连接后若页面仍提示地区限制，可更换同区域其它节点再试。</p><h3>游戏与实时对战</h3><p>对延迟敏感的对战、登录与补丁下载，可改走 IPLC 游戏向线路。旗舰版明确包含专线优化，适合把游戏进程与下载任务分开节点，避免大流量下载挤占对战链路。</p><h3>办公学习与资料检索</h3><p>远程会议、文献库、代码托管与云盘同步适合选择稳定的普通线路。团队协作时统一订阅管理更省事，团队版提供更高流量与设备上限，并支持定制路由把办公网段与娱乐流量分开。</p><h3>多设备同时在线</h3><p>手机、电脑与平板同时使用时，请核对套餐设备上限。超出后新设备可能无法握手，可下线闲置终端或升级档位。路由器科学接入会占用一台设备额度，家庭场景建议预留余量。</p></section><section id=\"setup\"><h2>配置流程</h2><p>Flysocks 的上手路径刻意做短：先拿到订阅，再装客户端，最后选节点。下面按实际操作顺序写清，建议第一次连接时把本段与客户端界面对照着做。</p><div class=\"steps\"><h3>第一步：开通套餐并保存订阅</h3><p>在官网选择基础版、旗舰版或团队版，完成开通后进入用户中心复制订阅链接。链接请只保存在本地密码管理器或系统备忘，不要发到公开群组。年付与月付获得的都是同一类订阅，区别主要在有效期与折扣。</p><h3>第二步：按系统获取客户端</h3><p>桌面端常用 Clash 内核图形界面或 v2rayN 一类工具；苹果手机常用 Shadowrocket；安卓常用 Clash Meta 系列。请只通过本页<a href=\"#download\">客户端下载</a>章节的官方渠道说明获取，避免来路不明的改装包。</p><h3>第三步：导入订阅</h3><p>打开客户端的订阅或配置管理，粘贴 Flysocks 订阅地址并更新节点列表。若提示 TLS 或证书问题，先确认系统时间准确，再重试更新。导入成功后应能看到按地区或用途分组的节点名称。</p><h3>第四步：选择节点并开启系统代理</h3><p>先选延迟较低的普通节点做连通测试，浏览一个需要加速的站点确认规则生效。游戏再切到 IPLC 或标注游戏的线路。多数客户端需开启系统代理或 TUN 模式，浏览器才会走加速通道。</p><h3>第五步：按场景微调规则</h3><p>流媒体失败时换同区域解锁节点；下载占满带宽时把游戏单独分流；公司网络拦截时尝试备用端口或另一入口。配置改动后不必反复重装，更新订阅即可同步新节点。</p></div><p>若导入后列表为空，检查订阅是否过期、是否复制了多余空格。若能连上但速度差，避开晚高峰拥堵节点，或把大文件下载改到流量更充裕的时段。旗舰版工单通道适合排查客户端规则与分流冲突。</p></section><section id=\"download\"><h2>客户端下载</h2><p>Flysocks 官网下载指引覆盖常用系统，本身以订阅为核心，不把安装包混在邮件附件里。请先确认套餐已生效，再安装与内核匹配的客户端。</p><h3>桌面端</h3><p>Windows 可使用 v2rayN 或 Clash 图形客户端导入订阅；macOS 可使用 ClashX 系或 Surge。安装完成后只导入 Flysocks 订阅，不要叠加来源不明的规则文件，以免策略互相覆盖。</p><h3>移动端</h3><p>iOS 常用 Shadowrocket 等商店应用；Android 常用 Clash Meta 及兼容 fork。首次允许 VPN 配置权限后即可连接。若系统提示本地网络或始终开启 VPN，按自己的耗电与在线需求决定。</p><h3>路由与进阶</h3><p>硬路由或旁路由可直接使用订阅 URL 定时更新。团队版如需企业定制路由，把办公网段与访客网络分开，避免所有终端抢占同一出口。完成后回到<a href=\"#setup\">配置流程</a>核对代理模式。</p><p>认准 Flysocks 官方网站说明再下载，可减少仿冒站点与捆绑插件。本页仅提供获取路径与导入方法，具体安装包版本以各客户端官方发布页为准。</p></section><div class=\"ad\">广告位：品牌合作与线路体验咨询请通过页脚渠道联系，合作信息将标注来源以免与正文混淆。</div><section id=\"faq\"><h2>常见问题</h2><details><summary>Flysocks 是机场还是 VPN 客户端本身？</summary><p>Flysocks 首先是机场订阅服务，同时提供 VPN 加速用法说明。你需要在自有设备安装兼容客户端，再用订阅地址拉取节点。官网负责套餐、节点与配置文档，不把所有系统的安装包都塞进同一个压缩文件。</p></details><details><summary>如何完成官网下载后的第一次连接？</summary><p>按配置流程复制订阅、安装对应系统客户端、更新节点、开启系统代理。若浏览器仍走直连，检查客户端是否处于规则模式以及系统代理端口是否被其它软件占用。连通后再为流媒体或游戏单独选线路。</p></details><details><summary>三个套餐该怎么选？</summary><p>轻度浏览与少量视频选基础版即可。需要更高流量、更多设备、全节点解锁和游戏 IPLC 时选旗舰版。多人共用、要定制路由或专属对接时选团队版。年付适合长期使用，平均月费更低。</p></details><details><summary>流量与设备数如何计算？</summary><p>流量按套餐周期累计实际走代理的数据，本地直连网站一般不计入。同时在线设备数按成功握手的终端统计，路由器通常占一个名额。接近上限时可下线不用的设备，或升级到更高档位。</p></details><details><summary>流媒体解锁失败怎么办？</summary><p>先确认当前套餐是否包含对应解锁范围，再更换同区域其它节点并清除应用缓存。部分平台会校验支付地区或账号历史，节点只解决网络出口问题。旗舰版与团队版对全节点原生解锁的覆盖更完整。</p></details><details><summary>客户端提示订阅无效或节点为空？</summary><p>检查链接是否完整、套餐是否在有效期内、设备时间是否正确。更新失败时可稍后重试或更换网络再导入。仍异常时通过套餐对应的支持渠道提交客户端名称与报错原文，便于对照入口状态。</p></details></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><h2>网站地图</h2><p class=\"map\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#setup\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></p><p>完整 sitemap.xml 见官网根路径，便于检索栏目与下载说明。</p><h2>广告与合作</h2><p>Flysocks 官方网站接受与网络工具、客户端教程相关的文字合作，广告与正文分区展示。洽谈请通过官网公示渠道，不在页面收集表单信息。</p><h2>友情链接</h2><p class=\"friends\"><a href=\"#\">订阅格式说明</a><a href=\"#\">客户端对照</a><a href=\"#\">节点选择笔记</a><a href=\"#\">分流规则入门</a></p><p>Flysocks 官方网站提供机场订阅与 VPN 梯子加速说明。请依法使用网络服务，遵守所在地区与目标站点的规定。</p></div></footer>",
+          "hash": "92fd01d81c2c9cbb770f7788856df6166d09e744533196a7ce3e472ce6b4c3b5",
+          "seo": {
+            "title": "Flysocks官网 - VPN梯子网络加速器与机场客户端下载",
+            "keywords": "Flysocks,Flysocks VPN,Flysocks机场,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC",
+            "description": "Flysocks 提供官方机场订阅与 VPN 加速服务，覆盖高速梯子节点、流媒体解锁、游戏专线及多端客户端下载，助力稳定跨境网络体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "562542.cn",
+    "host": "p-854dd89a60.562542.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "562542.cn",
+      "url": "https://562542.cn/",
+      "label": "Walless",
+      "apex": "562542.cn",
+      "kind": null,
+      "identity": "fpxmgqfqx/page-bc1f28be4744254d6f0ad9b7"
+    },
+    {
+      "host": "nwqnl.cn",
+      "url": "https://nwqnl.cn/",
+      "label": "Flysocks",
+      "apex": "nwqnl.cn",
+      "kind": null,
+      "identity": "jmsumq/page-8b4f6f8e937446df582468c3"
+    },
+    {
+      "host": "nwygz.cn",
+      "url": "https://nwygz.cn/",
+      "label": "Flysocks",
+      "apex": "nwygz.cn",
+      "kind": null,
+      "identity": "rybrewsmsrc/page-9697799567f20e1075889368"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8becd5d0246d265d213e629ce16f7b731de5a2b025203947c695d7b0639298c8",
+    "sitemap.xml": "583d5b4e9feb9db4724657016953317f4e6086c114e1de912f55a02efe9d35c9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cb30a8eb985abb68574878691d70e36ed12618a33c2f4e704af9a70d18bdff95",
+    "robots.txt": "7716f79239c0eb2d6ff74a37d8b7d1a054c07482e406a4d3a87e513a9c2c647d",
+    "563a7cf54192d64da8dcefc2386cc4c5.txt": "5647b688ada5fcee16af6735452d7ebcd7661d0bcf63f8d5e8029825a8579ee2"
+  },
+  "revision": "e3acee71d7c9d3eb653a7c28e9dc065de12b5fed3dd9cb9f823ea66cbae9208b"
+}
